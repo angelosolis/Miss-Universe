@@ -1,0 +1,11 @@
+C:\Users\solis\source\repos\Miss Universe\Miss Universe\bin\Debug\Miss Universe.exe.config
+C:\Users\solis\source\repos\Miss Universe\Miss Universe\bin\Debug\Miss Universe.exe
+C:\Users\solis\source\repos\Miss Universe\Miss Universe\bin\Debug\Miss Universe.pdb
+C:\Users\solis\source\repos\Miss Universe\Miss Universe\obj\Debug\Miss Universe.csproj.AssemblyReference.cache
+C:\Users\solis\source\repos\Miss Universe\Miss Universe\obj\Debug\Miss Universe.csproj.SuggestedBindingRedirects.cache
+C:\Users\solis\source\repos\Miss Universe\Miss Universe\obj\Debug\Miss_Universe.Form1.resources
+C:\Users\solis\source\repos\Miss Universe\Miss Universe\obj\Debug\Miss_Universe.Properties.Resources.resources
+C:\Users\solis\source\repos\Miss Universe\Miss Universe\obj\Debug\Miss Universe.csproj.GenerateResource.cache
+C:\Users\solis\source\repos\Miss Universe\Miss Universe\obj\Debug\Miss Universe.csproj.CoreCompileInputs.cache
+C:\Users\solis\source\repos\Miss Universe\Miss Universe\obj\Debug\Miss Universe.exe
+C:\Users\solis\source\repos\Miss Universe\Miss Universe\obj\Debug\Miss Universe.pdb
